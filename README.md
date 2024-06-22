@@ -15,7 +15,6 @@ The Spotify Playlist Creator is a single-page web application (SPA) built with R
 ## Technologies Used
 
 - **React.js**: A JavaScript library for building user interfaces.
-- **React Router**: For handling navigation and routing within the application.
 - **Spotify Web API**: Used to interact with the Spotify platform, including user authentication and playlist management.
 - **OAuth 2.0**: Authentication protocol used for securely authorizing users' access to their Spotify accounts.
 - **HTML5 & CSS3**: For structuring and styling the user interface.
